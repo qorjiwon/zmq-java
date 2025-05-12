@@ -1,0 +1,6 @@
+<dependency>
+    <groupId>org.zeromq</groupId>
+    <artifactId>jeromq</artifactId>
+    <version>0.5.2</version> <!-- Maven Central에서 최신 버전을 확인하세요 -->
+</dependency>
+
